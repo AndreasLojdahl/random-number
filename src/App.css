@@ -1,0 +1,16 @@
+.App {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #282c34;
+}
+
+.game {
+  min-height: 50vh;
+  max-height: 50vh;
+  background-color: white;
+}
+
+.roll-number {
+  font-size: 4rem;
+  text-align: center;
+}
